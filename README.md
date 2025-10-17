@@ -36,6 +36,10 @@ sem_proj
 └── README.md
 ```
 ---
+##Find the total project workspace here
+```
+https://amritacampuschennai-my.sharepoint.com/:f:/g/personal/ch_sc_u4aie23030_ch_students_amrita_edu/EnZyV0hp8C5JsNydCC_GrSoB-m6wYlIXUOhwYvIVEeRXBQ?e=xYqWjD
+```
 
 ## ⚙️ Prerequisites
 - Ubuntu 22.04 LTS  
