@@ -55,6 +55,7 @@ cd ~/sem_proj/src
 ```
 # Clone this repository
 ```
+git clone https://github.com/rishitha013/ros_project_team-5.git
 ```
 
 # Build the workspace
