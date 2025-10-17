@@ -36,9 +36,14 @@ sem_proj
 └── README.md
 ```
 ---
-##Find the total project workspace here
+
+## Find the total project workspace here
 ```
 https://amritacampuschennai-my.sharepoint.com/:f:/g/personal/ch_sc_u4aie23030_ch_students_amrita_edu/EnZyV0hp8C5JsNydCC_GrSoB-m6wYlIXUOhwYvIVEeRXBQ?e=xYqWjD
+```
+## Find the ppt link here
+```
+https://1drv.ms/p/c/dbc6177abd1010e2/ES18YVZz5edHskpBX4p9a4gBZNHQpC-D43Nkg2XJthO-7w?e=yvT1Rx
 ```
 
 ## ⚙️ Prerequisites
